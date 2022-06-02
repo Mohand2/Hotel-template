@@ -2,7 +2,7 @@
 Hotel Template - HTML, CSS | Not Responsive<br /><br />
 Preview :
 <br /><br />
-![Homejam Template - HTML, CSS | Not Responsive](http://g.recordit.co/ck9ps5Dnaj.gif)
+![Hotel Template - HTML, CSS | Not Responsive](https://github.com/Mohand2/Hotel-template/blob/main/template-screenshot.gif)
 
 This template contains 3 pages:
   - Home 

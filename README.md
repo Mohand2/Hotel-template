@@ -9,4 +9,5 @@ This template contains 3 pages:
   - About
   - Contact
   
-Live demo: https://mohand2.github.io/Hotel-template
+Live demo: https://mohand2.github.io/Hotel-template<br/>
+Personal Projects Gallery: https://github.com/Mohand2/personal-projects
